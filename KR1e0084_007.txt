@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳屬事
-#+DATE: 2015-09-23 09:40:18
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:16:07.937994
+#+PROPERTY: ID KR1e0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0084_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋左傳屬事卷七　　　　明　傅遜　撰¶
@@ -686,4 +688,3 @@
 (夷盟也因思子贛而言及之言若在必無此辱文子恨/季孫不能用于平日臨難方思故言他日請念以過此)¶
 (復不/念矣)¶
 　春秋左傳屬事卷七¶
-

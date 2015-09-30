@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳屬事
-#+DATE: 2015-09-23 09:40:18
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:16:07.974288
+#+PROPERTY: ID KR1e0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0084_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋左傳屬事卷九　　　明　傅遜　撰¶
@@ -758,4 +760,3 @@
 　¶
 　¶
 　春秋左傳屬事卷九¶
-

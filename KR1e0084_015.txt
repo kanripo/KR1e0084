@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳屬事
-#+DATE: 2015-09-23 09:40:18
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:16:08.113777
+#+PROPERTY: ID KR1e0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1e0084_WYG_015-1a>¶
 欽定四庫全書¶
 　春秋左傳屬事卷十五　　明　傅遜　撰¶
@@ -740,4 +742,3 @@
 (路以為迂何也夫以二賢猶尚爾/則民彞固已大冺於斯世矣傷哉)¶
 　¶
 　春秋左傳屬事卷十五¶
-

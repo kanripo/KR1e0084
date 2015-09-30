@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳屬事
-#+DATE: 2015-09-23 09:40:18
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:16:08.261418
+#+PROPERTY: ID KR1e0084
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1e0084_WYG_022-1a>¶
 春秋左傳屬事後序¶
 竊觀古今學術其始也有自其成也有漸其行也有藉¶
@@ -59,4 +61,3 @@
 <pb:KR1e0084_WYG_022-4a>¶
 萬厯乙酉中秋古婁後學傅遜書於江西南康府建昌¶
 縣學宫¶
-
